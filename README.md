@@ -28,7 +28,3 @@ Power BI Desktop, Power Query, DAX
 - Low satisfaction (scores 1-2) means 23-25% attrition
 - Highest risk in the first 3 years of tenure
 - Chennai (24.0%) and Mumbai (20.6%) are the highest-attrition cities
-
-## Files
-- `HR_Attrition_Dashboard.pbix`: Power BI file
-- `project2_hr_attrition_data.csv`: dataset (synthetic sample data)
